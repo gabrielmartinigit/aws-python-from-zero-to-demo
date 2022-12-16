@@ -1,2 +1,5 @@
-#OSx
+# OSx
 .DS_Store
+
+# Python
+.venv
