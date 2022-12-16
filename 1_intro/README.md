@@ -11,6 +11,10 @@ python --version
 python
 ```
 
+```python
+import this
+```
+
 Finalize a execução do Python ao final do módulo:
 
 ```bash

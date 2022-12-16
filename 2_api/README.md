@@ -70,3 +70,7 @@ def post_cats():
 curl -X GET "localhost:5000"
 curl -X POST -H "Content-type: application/json" -d "{\"Gato\" : \"Abobrinhha\"}" "localhost:5000/cats"
 ```
+
+## Desafios
+
+1. Crie uma API com método GET que recebe o nome e a língua do usuário e retorna um conselho do dia.
